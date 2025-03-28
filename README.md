@@ -1,4 +1,4 @@
-<script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="https://github.com/PriderBill/PriderBill.github.io/tree/main/lib/canvas-nest/canvas-nest.min.js"></script>
+<script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="https://priderbill.github.io/lib/canvas-nest/canvas-nest.min.js"></script>
 
 # jekyll_learning
 ## titlemiddle
